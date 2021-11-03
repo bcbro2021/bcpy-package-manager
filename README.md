@@ -5,6 +5,6 @@ linux is the only os that supports this package manager for now.
 
 ## Installation
 ```
-$ git clone https://github.com/bcbro2021/bcpy-manager.git
+$ git clone https://github.com/bcbro2021/bcpy-package-manager.git
 $ cd bcpy-manager
 ```
