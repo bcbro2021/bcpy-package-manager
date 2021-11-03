@@ -15,12 +15,12 @@ $ ./setup.sh
 $ bcpy <function> <package-name> <directory>
 
 ```
-### functions
+### Functions
 ```
   install :- installs a package from <directory>
   remove :- removes a package from <directory>
 ```
-### directory
+### Directory
 ```
   example: $bcpy install margray_2d /home/<your-username>/projects/python/game/
   
